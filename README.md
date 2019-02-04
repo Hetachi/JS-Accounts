@@ -1,6 +1,12 @@
 # JS-Accounts
 Account system using NodeJS backend with ReactJS frontend, and MYSQLDB as Database.
 
+# Requirements
+
+ - [ ] NodeJS v10.13.0 or higher
+ - [ ] NPM v6.2.0 or higher
+ - [ ] Yarn v1.10.1 or higher
+
 # Setup:
 
  - First install `yarn`
@@ -22,3 +28,12 @@ Account system using NodeJS backend with ReactJS frontend, and MYSQLDB as Databa
    DB.
 
 > Note: You can leave the line uncommented, although it is recommended that you comment the line out and restart the server once again.
+
+# Commands
+
+ - `yarn build` - Will build solution to dist folder for production use
+ - `yarn start:dev` - Will start a webpack dev server on port: 8080
+ - `yarn start:ele` - Will start a developer Electron app
+ - `yarn build:ele` - Will attempt to build a fully working Electron app (Note: This is not fully working)
+ - `nodemon server.js` - Will start a backend Development server which will watch for changes in server.
+ - `node server.js` - Will start the backend server.
