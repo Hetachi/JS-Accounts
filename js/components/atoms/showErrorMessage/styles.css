@@ -1,0 +1,16 @@
+:local
+
+.hidden {
+    display: none;
+}
+
+.error {
+    margin: 0;
+    line-height: 32px;
+    padding: 0;
+    color: #be0101;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 12px;
+    text-align: left;
+}

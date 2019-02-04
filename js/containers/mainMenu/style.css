@@ -1,0 +1,7 @@
+:local
+
+.logoutButton {
+    cursor: pointer;
+    font-weight: bold;
+    font-family: sans-serif
+}
