@@ -3,9 +3,9 @@ Account system using NodeJS backend with ReactJS frontend, and MYSQLDB as Databa
 
 # Requirements
 
- - [ ] NodeJS v10.13.0 or higher
- - [ ] NPM v6.2.0 or higher
- - [ ] Yarn v1.10.1 or higher
+ - [x] NodeJS v10.13.0 or higher
+ - [x] NPM v6.2.0 or higher
+ - [x] Yarn v1.10.1 or higher
 
 # Setup:
 
