@@ -10,7 +10,7 @@ Account system using NodeJS backend with ReactJS frontend, and MYSQLDB as Databa
 # Setup:
 
  - First install `yarn`
- - Afterwards run `yarn install` to install all running modules
+ - Afterwards run `yarn install` to install the required npm packages
  - Once that is done you will need to edit `mysqlpool.js` and fill in
    the following fields:
 
